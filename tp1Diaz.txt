@@ -1,2 +1,7 @@
 Mi Primer repositorio
 programación
+trabajo práctico N1
+rama main
+rama development
+rama master
+
